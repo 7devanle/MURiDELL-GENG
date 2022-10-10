@@ -8,3 +8,4 @@ class Solution(object):
         if len(num_set) == len(nums):
             return False
         return True
+        
